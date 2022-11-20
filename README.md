@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor Full Stack . Net + ReactJS.<br>Cursando o primeiro ano em Engenharia de Software - INTELI.<br>Experiência em: desenvolvimento web, mobile, scrum e kanban.
+Desenvolvedor Full Stack .Net + ReactJS.<br>Cursando o primeiro ano em Engenharia de Software - INTELI.<br>Experiência em: desenvolvimento web, mobile, scrum e kanban.
 
 
 ## 🌐 Socials:
