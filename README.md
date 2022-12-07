@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Desenvolvedor Full Stack .Net + ReactJS.<br>Cursando o primeiro ano em Engenharia de Software - INTELI.<br>Experiência em: desenvolvimento web, mobile, scrum e kanban.
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yago-ara%C3%BAjo-do-vale-moreira-461816247/) 
 
 # 💻 Tech Stack:
