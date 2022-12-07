@@ -13,6 +13,4 @@ Desenvolvedor Full Stack .Net + ReactJS.<br>Cursando o primeiro ano em Engenhari
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoar45&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yagoar45&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
