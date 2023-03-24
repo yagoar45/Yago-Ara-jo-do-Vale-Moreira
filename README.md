@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Pt Atuo como desenvolvedor de software no Brasil com foco em backend, devOps e Cloud Computing <br><br>En: I work as a software developer in Brazil with a focus on backend, devOps and Cloud Computing</p>
+<p align="left">BR   <br>Atuo como desenvolvedor de software no Brasil com foco em backend, devOps e Cloud Computing. <br><br>EN <br>I work as a software developer in Brazil with a focus on backend, devOps and Cloud Computing.</p>
 
 ###
 
-<p align="left">Linguagens de Programação:</p>
+<p align="left">BR <br>Linguagens de Programação: <br><br>EN<br>Programming Languages</p>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">Frameworks e Plataformas:</p>
+<p align="left">BR<br>Frameworks e Plataformas:<br><br>EN<br>Frameworks and Platforms:</p>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">Bancos de Dados:</p>
+<p align="left">BR<br>Bancos de Dados: <br><br>EN<br>Databases:</p>
 
 ###
 
@@ -47,7 +47,7 @@
 
 ###
 
-<p align="left">Ferramentas:</p>
+<p align="left">BR<br>Ferramentas: <br><br>EN<br>Tools:</p>
 
 ###
 
