@@ -3,7 +3,7 @@
 
 - 👨‍💻 Meu portifólio: [https://linkhere.com.br](https://linkhere.com.br)
 
-- 📫 Conecte-se comigo: **yagoaraujo398@gmail.com**
+- 📫 Email: **yagoaraujo398@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
