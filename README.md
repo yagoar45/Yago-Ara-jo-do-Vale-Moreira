@@ -74,8 +74,4 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/yagoAr45/yagoAr45/blob/output/snake.svg" alt="Snake animation" />
-
-###
