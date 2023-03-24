@@ -76,6 +76,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yagoar45/yagoar45/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/yagoAr45/yagoAr45/blob/output/snake.svg" alt="Snake animation" />
 
 ###
