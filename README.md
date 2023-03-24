@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Pt: Linguagens de Programação:</p>
+<p align="left">Linguagens de Programação:</p>
 
 ###
 
