@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">BR <br>Linguagens de Programação: <br><br>EN<br>Programming Languages</p>
+<p align="left">Linguagens de Programação / Programming Languages</p>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">BR<br>Frameworks e Plataformas:<br><br>EN<br>Frameworks and Platforms:</p>
+<p align="left">Frameworks</p>
 
 ###
 
@@ -29,12 +29,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="nestjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" width="52" alt="dot-net logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="52" alt="dotnetcore logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
 </div>
 
 ###
 
-<p align="left">BR<br>Bancos de Dados: <br><br>EN<br>Databases:</p>
+<p align="left">Bancos de Dados / Databases</p>
 
 ###
 
@@ -47,7 +46,7 @@
 
 ###
 
-<p align="left">BR<br>Ferramentas: <br><br>EN<br>Tools:</p>
+<p align="left">Ferramentas / Tools</p>
 
 ###
 
@@ -55,6 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="52" alt="kubernetes logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
 </div>
 
 ###
@@ -75,8 +75,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/yagoar45/yagoar45/blob/output/snake.svg" alt="Snake animation" />
 
