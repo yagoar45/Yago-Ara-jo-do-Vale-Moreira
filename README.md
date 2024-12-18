@@ -22,8 +22,6 @@ At **Clarifiquei**, we specialize in developing a wide range of software product
 
 Our mission is to deliver measurable value through technology, whether by driving revenue growth or optimizing operational efficiency. We don’t just build software — we craft tools that empower businesses to achieve their full potential.
 
-<>
-
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
