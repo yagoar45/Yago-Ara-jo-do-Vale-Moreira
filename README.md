@@ -6,8 +6,6 @@
 
 ###
 
-# About Me
-
 <p align="left">I'm Yago, co-founder of Clarifiquei and full stack Software Engineer.</p>
 
 ## About Clarifiquei
