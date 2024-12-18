@@ -6,7 +6,23 @@
 
 ###
 
-<p align="left">I'm Yago<br><br>- full stack software engineer with over 4 years of experience<br> <br>- currently, I´m building my startup: Trakius, an AI company that generates ultra-realistic texts with a focus on increasing conversion and retention of content created by our users</p>
+# About Me
+
+<p align="left">I'm Yago<br><br>, co-founder of Clarifiquei and full stack Software Engineer.</p>
+
+## About Clarifiquei
+
+I began programming at the age of 13, and today, as the founder of **Clarifiquei**, I lead a team dedicated to building custom software solutions for businesses of all sizes — from innovative startups to established SMBs.  
+
+At **Clarifiquei**, we specialize in developing a wide range of software products, including:  
+- **SaaS platforms**  
+- **Mobile applications**  
+- **Marketplaces**  
+- Advanced solutions leveraging **AI**, **blockchain**, and **IoT** technologies  
+
+Our mission is to deliver measurable value through technology, whether by driving revenue growth or optimizing operational efficiency. We don’t just build software — we craft tools that empower businesses to achieve their full potential.
+
+<>
 
 ###
 
